@@ -1,40 +1,35 @@
 {
   "main": {
-    "name": "Mehul Prajapati",
-    "occupation": "Node Developer && DevOps Engineer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. ",
-    "image": "IG_Mehul.jpeg",
-    "bio": "My name is Mehul, I'm a Full Stack ReactJS Developer. Currently I'm working at Oscod Technology while also Managing Project ",
+    "name": "Uttamkumar Tarasariya",
+    "occupation": "Mobile Engineer",
+    "description": "React Native Developer by Day, Founder && Project Manager by Night ",
+    "image": "profile_image.jpg",
+    "bio": "Uttamkumar, Mobile Engineer, considers himself as the best reader. Uttam had been working at PlanetX Technologies Pvt. Ltd. as a Mobile developer and currently he is a full-time Freelancer working in React Native technology and Managing Projects. Moreover, Uttam is dreaming to be becoming AI Engineer and pursuing his dream by educating at LOYALIST COLLEGE OF APPLIED ARTS AND TECHNOLOGY with course of ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
     "contactmessage": "Get in touch with me to receive further details",
-    "email": "mehulprajapati85345@gmail.com",
-    "phone": "+91 70166 53076",
+    "email": "uttamtarsariya@gmail.com",
+    "phone": "+91 95586 99872",
     "address": {
-      "street": "E-29 Jayant Park, Nr. Shubhash Cowk, Gurukul Road,",
-      "city": "Ahemedabad",
-      "state": "India",
-      "zip": "380052"
+      "street": "39 Viewcrest Circle,",
+      "city": "Etobicoke, ",
+      "state": "ON Canada",
+      "zip": "M9W 7G6"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "resume.pdf",
     "social": [
-     
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/mehul-prajapati-700478153/",
+        "url": "https://www.linkedin.com/in/uttam-tarasariya-5759421b7/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/mehul_85345/",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/tarasariya-uttam",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "https://github.com/prajapatimehul",
-        "className": "fa fa-github"
-      } ,{
-        "name": "Quora",
-        "url": "https://www.quora.com/profile/Prajapati-Mehul-3",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/uttam.tarasariya/",
         "className": "fa fa-facebook"
       }
     ]
@@ -44,55 +39,65 @@
     "education": [
       {
         "school": "GEC Rajkot",
-        "degree": "Bachelor Degree in Computer Science",
+        "degree": "Bachelor Degree in Computer Engineering",
         "graduated": "May 2019",
-        "description": "Completed with a cumulative GPA of 7.1"
+        "description": "Completed with a cumulative GPA of 7.32"
       }
     ],
     "work": [
       {
         "company": "Freelancer- Fiverr/Upwork",
-        "title": "MERN Stack Developer And DevOps Engineer",
-        "years": "Dec 2017 - Present",
-        "description": "Working in Nodejs and Managing React and React Native Projects"
+        "title": "React Native Developer And Mobile Engineer",
+        "years": "Dec 2018 - Present",
+        "description": "Working in React Native Technology and Managing React and React Native Projects"
       },
       {
-        "company": "WebMob Technologies ",
-        "title": "Junior Developer",
-        "years": "Jan 2019 - May 2019",
-        "description": "Learning Node js and React Js"
+        "company": "PlanetX Technologies",
+        "title": "Jr. Android Developer",
+        "years": "May 2019 - Aug 2020",
+        "description": "Worked in Android (KOTLIN) Developement, Learned ReactJS"
       },
       {
-        "company": "OSCOD Technology",
-        "title": "MERN Stack Developer",
-        "years": "Jan 2020 - Present",
-        "description": "Working as a Project Manager and MERN Stack developer"
+        "company": "Spark Techno Solutions",
+        "title": "Android Developer",
+        "years": "Sep 2018 - Apr 2019",
+        "description": "Worked in Android (Java) Developement and developed many mobile applicaitons, Learned React Native"
+      },
+      {
+        "company": "Neeasoft Web Services",
+        "title": "Trainee Mobile Developer",
+        "years": "Apr 2018 - Aug 2018",
+        "description": "Learned Mobile app development and supported company's ongoing projects"
       }
     ],
     "skills": [
       {
-        "name": "Node",
-        "level": "100%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "90%"
-      },
-       {
-        "name": "Git",
-        "level": "90%"
-      },
-      {
-        "name": "AWS",
+        "name": "Android",
         "level": "95%"
       },
       {
-        "name": "Mysql",
-        "level": "80%"
+        "name": "React Native",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
       }
     ]
   },
@@ -108,24 +113,30 @@
         "title": "MERN Stack Court Case File",
         "category": "Court Case filling built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "ecasex.png",
-        "url": "https://ecasex-jade.vercel.app/"
+        "url": "http://portal-ecasex-dev-test.azurewebsites.net/"
       },
       {
-        "title": "SheepMug Church Management App ",
-        "category": "Church Management React Native app and Web site Made in MERN",
-        "image": "SheepMug.png",
-        "url": "https://www.sheepmug.com/"
+        "title": "Task Management App",
+        "category": "Task Control Mobile App - React Native",
+        "image": "taskcontrol_app.jpeg",
+        "url": "https://play.google.com/store/apps/details?id=com.taskcontrol"
       },
       {
-        "title": "Ample.tv Video Streaming",
-        "category": "Youtube and Twitch Video streaming Website built with ReactJS And AWS lamda",
-        "image": "ample.png",
-        "url": "https://ample.tv/"
+        "title": "Goddit Mobile App ",
+        "category": "Product availability tracker React Native app and website developed using MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "goddit.png",
+        "url": "https://play.google.com/store/apps/details?id=com.goddit"
+      },
+      {
+        "title": "PscAdda Mobile App ",
+        "category": "Competitive exam preparation React Native mobile app",
+        "image": "pscadda.png",
+        "url": "https://play.google.com/store/apps/details?id=com.psdadda"
       },
       {
         "title": "Fuuly School Management",
         "category": "School Management and attendance system built with React Native",
-        "image": "fuuly.png",
+        "image": "schoolsystem.png",
         "url": "#"
       }
     ]
@@ -133,18 +144,25 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Mehul did an amazing job and delivered this much faster than expected! I would definitely hire him again for any programming job. He understood the requirements immediately and started to work on it right away. I would surely recommend him for any similar type of work.",
-        "user": "mayur059   - Fiverr"
+        "text": "Very responsible, the most preferable for long term.",
+        "user": "Upwork Client"
+      },
+      {
+        "text": "Uttam has successfully delivered an online store using ReactJs,MongoDb, and NodeJs. He was able to listen and apply any updates or changes to the website. I was happy working with him and I would definitely recommend him!",
+        "user": "Upwork Client"
       },
       {
         "text": "Great developer to work with. Very professional and time sensitive. I will keep working with him for long term!",
         "user": "jinhromeo1  - Fiverr"
       },
       {
-        "text": "Mehul has successfully delivered an online store using ReactJs,MongoDb, and NodeJs. He was able to listen and apply any updates or changes to the website. I was happy working with him and I would definitely recommend him!",
-        "user": "Upwork Client"
+        "text": "He is nice and knew what he was doing.",
+        "user": "ozonewebs - Fiverr"
+      },
+      {
+        "text": "Uttam has done an excellent job. He offered me a solution for my project and fulfilled his task perfectly. He did even more and showed a lot of patience regarding my requirements. I am already preparing the next tasks. This developer is highly recommended.",
+        "user": "ankitrawal001 - Fiverr"
       }
-      
     ]
   }
 }
