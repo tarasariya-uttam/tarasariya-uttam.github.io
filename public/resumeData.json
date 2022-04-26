@@ -1,17 +1,21 @@
 {
   "main": {
     "name": "Uttamkumar Tarasariya",
-    "occupation": "Mobile Engineer",
-    "description": "Android && React Native Developer by Day, Freelance, Founder && Project Manager by Night ",
+    "occupation": "Certified AWS Machine Learning Specialist",
+    "description": "Data Scientist, Reader & Developer. Freelancing as a Machine Learning Engineer and Solving Business Problems using Artificial Intelligence Modeling",
     "image": "profile_image.jpg",
-    "bio": "Uttamkumar, Mobile Engineer, considers himself as the best reader. Uttam had been working at PlanetX Technologies Pvt. Ltd. as a Mobile developer and currently he is a full-time Freelancer working in React Native technology and Managing Projects. Moreover, Uttam is dreaming to be becoming AI Engineer and pursuing his dream by educating at LOYALIST COLLEGE OF APPLIED ARTS AND TECHNOLOGY with course of ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
-    "contactmessage": "Get in touch with me to receive further details",
+    "upwork": "upwork.png",
+    "medium": "medium.png",
+    "certification":"certificate.jpeg",
+    "bioSpecialty": "Uttamkumar, Certified AWS MACHINE LEARNING SPECIALIST, considers himself as the best reader. I am experienced Machine Learning Engineer and have been in this field since 2017. I am also Mobile Developer as I am X-Employee of PlanetX Technologies Pvt. Ltd for 2 years. ",
+    "bioDream": "Currently, I am freelancing for full time as a Artificial Intelligence and Machine Learning Engineer. I am passionate about AI/ML applications which help the business to grow more with the Smart AI and AI Powered automate processes. I would love to assist Start-ups businesses to implement AI Powered systems with the help of Amazon Web Services (AWS) and latest of Artificial Intelligence. ",
+    "contactmessage": "Let's join community",
     "email": "uttamtarsariya@gmail.com",
     "phone": "+1 (437) 971 7179",
     "address": {
-      "street": "39 Viewcrest Circle,",
+      "street": "39, Viewcrest Circle,",
       "city": "Toronto ",
-      "state": "Ontario, Canada",
+      "state": "ON, Canada",
       "zip": "M9W 7G6"
     },
     "website": "http://www.timbakerdev.com",
@@ -19,7 +23,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/uttam-tarasariya-5759421b7/",
+        "url" : "https://www.linkedin.com/in/uttamkumar-tarasariya-5759421b7/",
         "className": "fa fa-linkedin"
       },
       {
@@ -28,27 +32,40 @@
         "className": "fa fa-github"
       },
       {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/uttam.tarasariya/",
-        "className": "fa fa-facebook"
+        "name": "medium",
+        "url": "https://medium.com/@uttamtarasariya",
+        "className": "fa fa-comment" 
       }
     ]
+
   },
   "resume": {
     "skillmessage": "",
     "education": [
       {
+        "school": "Loyalist College Of Applied Arts and Technologies",
+        "degree": "Artificial Intelligence and Data Science (2 Years - PG)",
+        "graduated": "(Will be) Dec 2022",
+        "description": "Dream is being pursued"
+      },
+      {
         "school": "GEC Rajkot",
-        "degree": "Bachelor Degree in Computer Engineering",
+        "degree": "Computer Engineering (4 Years - BE)",
         "graduated": "May 2019",
         "description": "Completed with a cumulative GPA of 7.32"
       }
     ],
     "work": [
       {
+        "company": "Freelancer - Upwork",
+        "title": "Amazon Web Services / Artificial Intelligence / Machine Learning Modeling ",
+        "years": "May 2021 - Present",
+        "description": "AWS Services Configuration, AI/ML Model training, tuning, deploying and working with all Machine Learning Deep Learning Services by AWS"
+      },
+      {
         "company": "Freelancer- Fiverr/Upwork",
         "title": "React Native Developer And Mobile Engineer",
-        "years": "Dec 2018 - Present",
+        "years": "Dec 2018 - April 2021",
         "description": "Working in React Native Technology and Managing React and React Native Projects"
       },
       {
@@ -72,90 +89,76 @@
     ],
     "skills": [
       {
-        "name": "Android",
+        "name": "R - Python",
+        "level": "90%"
+      },
+      {
+        "name": "AI/ML Models, Neural Networks",
+        "level": "80%"
+      },
+      {
+        "name": "AWS Sagemaker and All AWS Machine Learning Services",
+        "level": "85%"
+      },
+      {
+        "name": "AWS DevOps Services",
+        "level": "80%"
+      },
+      {
+        "name": "Mobile Development (Android/iOS/Hybrid)",
         "level": "95%"
       },
       {
-        "name": "React Native",
-        "level": "95%"
-      },
-      {
-        "name": "ReactJs",
+        "name": "Web (ReactJs, NodeJS)",
         "level": "75%"
       },
       {
-        "name": "NodeJS",
-        "level": "70%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "70%"
-      },
-      {
-        "name": "Python",
-        "level": "50%"
-      },
-      {
-        "name": "Git",
-        "level": "90%"
+        "name": "Database (MySQL, MongoDB, Firebase)",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack Task Management",
-        "category": "Task Control built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "taskcontrol.png",
-        "url": "https://taskcontrol.vercel.app"
+        "title": "Spam Message Detection",
+        "category": "ML Classification using AWS XGBoost",
+        "image": "classification.png"
       },
       {
-        "title": "Task Management App",
-        "category": "Task Control Mobile App - React Native",
-        "image": "taskcontrol_app.jpeg",
-        "url": "https://play.google.com/store/apps/details?id=com.taskcontrol"
+        "title": "ML Model Deployment",
+        "category": "AI/ML Model Deploy using AWS Sagemaker",
+        "image": "sagemaker.jpeg"
       },
       {
-        "title": "Goddit Mobile App ",
-        "category": "Product availability tracker React Native app and website developed using MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "goddit.png",
-        "url": "https://play.google.com/store/apps/details?id=com.goddit"
+        "title": "Image Classification",
+        "category": "AI/ML Categorises Images using AWS Rekogtion, Lambda and API Gateway",
+        "image": "rekognition.png"
       },
       {
-        "title": "PscAdda Mobile App ",
-        "category": "Competitive exam preparation React Native mobile app",
-        "image": "pscadda.png",
-        "url": "https://play.google.com/store/apps/details?id=com.psdadda"
-      },
-      {
-        "title": "Fuuly School Management",
-        "category": "School Management and attendance system built with React Native",
-        "image": "schoolsystem.png",
-        "url": "#"
+        "title": "Text Extraction from Image",
+        "category": "Extract menu information from Restaurant Menu image using AWS Textract",
+        "image": "textract.jpg"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Very responsible, the most preferable for long term.",
-        "user": "Upwork Client"
+        "text": "Uttamkumar really cares about his work, and he goes the extra mile to make sure the project is successful. I would recommend working with him for any machine learning or data science project!",
+        "user": "Machine Learning Deployment - Upwork"
       },
       {
-        "text": "Uttam has successfully delivered an online store using ReactJs,MongoDb, and NodeJs. He was able to listen and apply any updates or changes to the website. I was happy working with him and I would definitely recommend him!",
-        "user": "Upwork Client"
+        "text": "Excellent work, great communication and got work done very quickly and with very high quality. Highly recommended!",
+        "user": "Deploy Machine Learning model on AWS Sagemaker - Upwork"
       },
       {
         "text": "Great developer to work with. Very professional and time sensitive. I will keep working with him for long term!",
-        "user": "jinhromeo1  - Fiverr"
+        "user": "AI/ML Image Rekognition using AWS - Upwork"
       },
       {
-        "text": "He is nice and knew what he was doing.",
-        "user": "ozonewebs - Fiverr"
-      },
-      {
-        "text": "Uttam has done an excellent job. He offered me a solution for my project and fulfilled his task perfectly. He did even more and showed a lot of patience regarding my requirements. I am already preparing the next tasks. This developer is highly recommended.",
-        "user": "ankitrawal001 - Fiverr"
+        "text": "Excellent cloud and machine learning experience and work ethic!",
+        "user": "Cloud AI/ML Questions - K8/Kafka, Spark, System Design - Upwork"
       }
     ]
   }
