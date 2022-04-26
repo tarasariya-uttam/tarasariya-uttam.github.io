@@ -207,8 +207,16 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 140px;
+   height: 140px;
+   border-radius: 100%;
+}
+#about .upwork {
+   position: relative;
+   text-align: center;
+   width: 40px;
+   margin-top: 16px;
+   height: 40px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -315,7 +323,6 @@ ul#nav li.current a { color: #F06000; }
    position: absolute;
    left: 0;
    top: 0;
-
    margin: 0;
    padding-right: 24px;
   	background: #313131;
